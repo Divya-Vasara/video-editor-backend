@@ -97,12 +97,4 @@ POST /api/videos/{id}/render
 GET /api/videos/{id}/download
 ```
 
----
 
-## 📄 License
-MIT
-
----
-
-## 🙌 Contributing
-PRs are welcome! Feel free to fork and improve.
